@@ -8,7 +8,7 @@ API Documentation:
 
 **The final project will be split into 2 sections: [Testing section](https://github.com/mn8375/Proiect-Practic-Testare-Manuala/blob/main/README.md#1-testing-section) and [SQL section](https://github.com/mn8375/Proiect-Practic-Testare-Manuala/blob/main/README.md#2-sql-section).**
 
-Tools used:
+Tools used: Jira
 
 # Functional specifications
 
