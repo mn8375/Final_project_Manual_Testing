@@ -38,7 +38,8 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.5 Risks detected
 
-* Project risks: 
+* Project risks: ![Analiza riscuri](https://github.com/mn8375/Final_project_Manual_Testing/assets/130221800/bce0fd3d-41bd-431f-9a24-d4a5299a0625)
+
 * Product risks: 
 
 #### 1.1.6 Evaluating entry criteria
