@@ -12,7 +12,7 @@ Tools used: Jira
 
 # Functional specifications
 
- [Modul cont nou](https://itfclasses.atlassian.net/browse/NM-5?atlOrigin=eyJpIjoiZmNiMmIzYzZmYzM5NGNiOWI0OTA3N2NiZGY5Yjk3OTgiLCJwIjoiaiJ9)
+ Modul cont nou:  https://itfclasses.atlassian.net/browse/NM-5?atlOrigin=eyJpIjoiZmNiMmIzYzZmYzM5NGNiOWI0OTA3N2NiZGY5Yjk3OTgiLCJwIjoiaiJ9
 
 
 # 1 Testing section
