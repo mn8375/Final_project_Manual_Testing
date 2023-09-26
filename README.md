@@ -12,7 +12,7 @@ Tools used: Jira
 
 # Functional specifications
 
--> enter here the functional specifications created in JIRA
+ https://itfclasses.atlassian.net/browse/NM-5?atlOrigin=eyJpIjoiZmNiMmIzYzZmYzM5NGNiOWI0OTA3N2NiZGY5Yjk3OTgiLCJwIjoiaiJ9
 
 
 # 1 Testing section
