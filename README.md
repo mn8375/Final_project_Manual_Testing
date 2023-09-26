@@ -38,9 +38,20 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 #### 1.1.5 Risks detected
 
-* Project risks: ![Analiza riscuri](https://github.com/mn8375/Final_project_Manual_Testing/assets/130221800/bce0fd3d-41bd-431f-9a24-d4a5299a0625)
+* Project risks:
+A. Insufficient testing staff	
+B. Inexperience of testing staff	
+C. Testing is done under short time pressure	
+D. Possibility to remain undiscovered bugs
 
 * Product risks: 
+E. Risks related to the security of personal data			
+F. Risks of economic losses due to wrong deliveries			
+G. The final product is unintuitive and complicated for users			
+H. Customers cannot place orders
+
+* ![Analiza riscuri](https://github.com/mn8375/Final_project_Manual_Testing/assets/130221800/bce0fd3d-41bd-431f-9a24-d4a5299a0625)
+
 
 #### 1.1.6 Evaluating entry criteria
 
