@@ -90,7 +90,11 @@ The following elements are needed to be ready before the test execution phase be
 
 * Test cases are executed on the created test Cycle summary: [Cycle_summary.xlsx](https://github.com/mn8375/Final_project_Manual_Testing/files/12728725/Cycle_summary.xlsx)
 
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]() 
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [NM-9.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12728818/NM-9.pdf) 
+[NM-10.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12728821/NM-10.pdf)
+[NM-23.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12728824/NM-23.pdf)
+[NM-26.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12728826/NM-26.pdf)
+[NM-28.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12728827/NM-28.pdf)
 
     *  enter here bug titles
 
