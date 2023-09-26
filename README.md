@@ -1,4 +1,4 @@
-[Cycle_summary.csv](https://github.com/mn8375/Final_project_Manual_Testing/files/12728688/Cycle_summary.csv)# Final project for ITF Manual Testing Course
+# Final project for ITF Manual Testing Course
 
 The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
 
@@ -88,9 +88,9 @@ The following elements are needed to be ready before the test execution phase be
 
 ## 1.6 Test Execution
 
-* Test cases are executed on the created test Cycle summary: [cycle_summary_execution.pdf]()   
+* Test cases are executed on the created test Cycle summary: [Cycle_summary.xlsx](https://github.com/mn8375/Final_project_Manual_Testing/files/12728725/Cycle_summary.xlsx)
 
-* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]() [Cycle_summary.xlsx](https://github.com/mn8375/Final_project_Manual_Testing/files/12728725/Cycle_summary.xlsx)
+* Bugs have been created based on the failed tests. The complete bug reports can be found here: [created_bugs.pdf]() 
 
     *  enter here bug titles
 
