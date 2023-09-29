@@ -1,6 +1,6 @@
-# Final project for ITF Manual Testing Course
+# Final project Manual Testing
 
-The scope of the final project for ITF Manual Testing Course is to use all gained knowledge throught the course and apply them in practice, using a live application. 
+The scope of the final project is to use all gained knowledge throught the course and apply them in practice, using a live application. 
 
 Application under test: https://www.anvelope-autobon.ro/
 
@@ -92,7 +92,12 @@ Functional test cases were created in Jira.
 ![Test cases](https://github.com/mn8375/Final_project_Manual_Testing/assets/130221800/a48a05d6-7a8c-4444-800e-64a676bd6607)
 
 
-The test cases with steps can be viewed here: [test_cases.pdf]()
+The test cases with steps can be viewed here: 
+![NM8](https://github.com/mn8375/Final_project_Manual_Testing/assets/130221800/78bb3c7b-72f1-4408-9495-84cff1fd01e1)
+
+
+![NM22](https://github.com/mn8375/Final_project_Manual_Testing/assets/130221800/0f9573e4-3c48-466d-8d12-4e75182a4ae8)
+
 
 ## 1.5 Test Implementation
 
