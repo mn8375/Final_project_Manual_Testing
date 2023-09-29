@@ -27,15 +27,15 @@ Project manager: Gabriela Radulescu
 QA Tester: Mihai Noaptes
 
 #### 1.1.2 Entry criteria defined
-To ensure testing has been provided and made available to testers: Approved test plan, Access to relevant documentation for the software product, Test environments prepared (installation, software configuration, database, etc.), Access to systems and functionalities (accounts, permissions). entry criteria;
-functional business specifications are defined;
-esting environment is up and running;
-smoke test passed (being the most basic type of test, this is a very important entry criteria in the process of testing).
+To ensure testing has been provided and made available to testers: Approved test plan, Access to relevant documentation for the software product, Test environments prepared (installation, software configuration, database, etc.), Access to systems and functionalities (accounts, permissions). Functional business specifications are defined and testing environment is up and running;
 
 #### 1.1.3 Exit criteria defined
-all planned test cases were executed;
-70% of the tests passed;
-no critical issues/bugs have open status (all unresolved bugs have low priority and severity from the point of view of software functionality).
+
+All planned test cases were executed;
+63% of the tests passed;
+5 bugs were found and an update of application will come to solve them
+retesting and regression testing will be made after application update
+
 #### 1.1.4 Test scope
 
 * __Tests in scope:__ All features of the "CONT NOU" and "INTRA IN CONT" modules that have been defined in the requirements and technical specifications, for the www.autobon.ro, must be tested. Other functionalities specific to web pages launched online, such as functional tests, GUI tests, etc.
