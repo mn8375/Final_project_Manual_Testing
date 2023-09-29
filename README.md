@@ -80,8 +80,11 @@ It will be done by generating periodic reports that reflect the current status o
 
 ## 1.3 Test Analysis
 
-The testing process will be executed based on the above requirements for the Dependents module. The following test conditions were found:
- * Enter test conditions here
+The testing process will be executed based on the requirements for the Dependents module. 
+
+![NM-5](https://github.com/mn8375/Final_project_Manual_Testing/assets/130221800/e2c5cb34-c026-4065-bbb2-35b4a28d1640)
+
+![NM-12](https://github.com/mn8375/Final_project_Manual_Testing/assets/130221800/68ab4d39-5d76-464e-af9b-f744cdb49a34)
 
 ## 1.4 Test Design
 
@@ -92,17 +95,13 @@ Functional test cases were created in Jira.
 ![Test cases](https://github.com/mn8375/Final_project_Manual_Testing/assets/130221800/a48a05d6-7a8c-4444-800e-64a676bd6607)
 
 
-The test cases with steps can be viewed here: 
+Some test cases with steps can be viewed here: 
 
 [NM-22.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12766237/NM-22.pdf)
 [NM-27.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12766214/NM-27.pdf)
 [NM-25.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12766213/NM-25.pdf)
 [NM-8.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12766212/NM-8.pdf)
 [NM-7.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12766211/NM-7.pdf)
-
-
-
-
 
 ## 1.5 Test Implementation
 
