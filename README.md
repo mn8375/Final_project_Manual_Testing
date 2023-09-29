@@ -38,12 +38,11 @@ all planned test cases were executed;
 no critical issues/bugs have open status (all unresolved bugs have low priority and severity from the point of view of software functionality).
 #### 1.1.4 Test scope
 
-* __Tests in scope:__ 
-* __Tests not in scope:__ 
-Tests in scope: All features of the "Login" module that have been defined in the requirements and technical specifications, for the www.drmax.ro page, must be tested. Other functionalities specific to web pages launched online, such as functional tests, GUI tests, etc.
-Tests not in scope: Out-of-scope tests: compatibility tests with multiple operating systems (other than Windows), existing previously implemented functionality such as stress, performance, security tests. Only web pages will be tested, no mobile apps are developed. Automated testing is out of scope.
+* __Tests in scope:__ All features of the "CONT NOU" and "INTRA IN CONT" modules that have been defined in the requirements and technical specifications, for the www.autobon.ro, must be tested. Other functionalities specific to web pages launched online, such as functional tests, GUI tests, etc.
+  
+* __Tests not in scope:__ Out-of-scope tests: compatibility tests with multiple operating systems (other than Windows), existing previously implemented functionality such as stress, performance, security tests. Only web pages will be tested, no mobile apps are developed. Automated testing is out of scope.
 
-1.1.5 Risks detected
+
 #### 1.1.5 Risks detected
 
 * Project risks:
