@@ -31,9 +31,12 @@ To ensure testing has been provided and made available to testers: Approved test
 
 #### 1.1.3 Exit criteria defined
 
-All planned test cases were executed;
+all planned test cases were executed;
+
 63% of the tests passed;
+
 5 bugs were found and an update of application will come to solve them
+
 retesting and regression testing will be made after application update
 
 #### 1.1.4 Test scope
