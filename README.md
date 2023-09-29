@@ -63,10 +63,9 @@ F. Risks of economic losses due to wrong deliveries
 
 G. The final product is unintuitive and complicated for users		
 
-H. Customers cannot place orders
+H. Customers can have difficulties to place orders
 
-* ![Analiza riscuri](https://github.com/mn8375/Final_project_Manual_Testing/assets/130221800/bce0fd3d-41bd-431f-9a24-d4a5299a0625)
-
+![Analiza riscuri](https://github.com/mn8375/Final_project_Manual_Testing/assets/130221800/730d5716-21fe-4e80-a225-6b3b611afdca)
 
 #### 1.1.6 Evaluating entry criteria
 
