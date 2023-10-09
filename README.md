@@ -29,7 +29,7 @@ Project manager: Gabriela Radulescu
 QA Tester: Mihai Noaptes
 
 #### 1.1.2 Entry criteria defined
-* To start the testing process has been provided to the testers: 
+To start the testing process has been provided to the testers: 
 * Approved test plan, 
 * Access to relevant documentation for the software product, 
 * Test environments prepared (installation, software configuration, database, etc.), 
