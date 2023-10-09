@@ -75,11 +75,11 @@ G. The final product is unintuitive and complicated for users
 
 H. Customers can have difficulties to place orders
 
-![Analiza riscuri](https://github.com/mn8375/Final_project_Manual_Testing/assets/130221800/730d5716-21fe-4e80-a225-6b3b611afdca)
+#### 1.![Risk analyze](https://github.com/mn8375/Final_project_Manual_Testing/assets/130221800/88decbdf-5212-433b-ac1d-7f67b0822f72)
 
-#### 1.1.6 Evaluating entry criteria
+1.6 Evaluating entry criteria
 
-The entry criterias defined in the Test Planning phase have been achieved and the test process can continue. 
+The entry criteria defined in the Test Planning phase have been achieved and the test process can continue. 
 
 ## 1.2 Test Monitoring and Control
 
