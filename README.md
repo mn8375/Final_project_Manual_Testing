@@ -44,7 +44,7 @@ To start the testing process has been provided to the testers:
 
 * 5 bugs were found and an update of application will come to solve them
 
-* retesting and regression testing will be made after application update
+
 
 #### 1.1.4 Test scope
 
