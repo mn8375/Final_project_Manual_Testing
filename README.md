@@ -9,6 +9,8 @@ Tools used: Jira by Atlassian with Zephyr plugin
 
 # Functional specifications
 
+[Requirements.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12846513/Requirements.pdf)
+
 
 # 1 Testing section
 
