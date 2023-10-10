@@ -51,9 +51,9 @@ To start the testing process has been provided to the testers:
 
 #### 1.1.4 Test scope
 
-* __Tests in scope:__ All features of the "CONT NOU" and "INTRA IN CONT" modules that have been defined in the requirements and technical specifications, for the www.autobon.ro, must be tested. Other functionalities specific to web pages launched online, such as functional tests, GUI tests, etc.
+* Tests in scope: all features of the "CONT NOU" and "INTRA IN CONT" modules that have been defined in the requirements and technical specifications, for the www.autobon.ro, must be tested. Other functionalities specific to web pages launched online, such as functional tests, GUI tests, etc.
   
-* __Tests not in scope: compatibility tests with multiple operating systems (other than Windows), existing previously implemented functionality such as stress, performance, security tests. Only web pages will be tested, no mobile apps are developed. Automated testing is out of scope.
+* Tests not in scope: compatibility tests with multiple operating systems (other than Windows), existing previously implemented functionality such as stress, performance, security tests. Only web pages will be tested, no mobile apps are developed. Automated testing is out of scope.
 
 
 #### 1.1.5 Risks detected
@@ -78,7 +78,7 @@ G. The final product is unintuitive and complicated for users
 
 H. Customers can have difficulties to place orders
 
-#### 1.![Risk analyze](https://github.com/mn8375/Final_project_Manual_Testing/assets/130221800/88decbdf-5212-433b-ac1d-7f67b0822f72)
+#### ![Risk analyze](https://github.com/mn8375/Final_project_Manual_Testing/assets/130221800/88decbdf-5212-433b-ac1d-7f67b0822f72)
 
 1.6 Evaluating entry criteria
 
