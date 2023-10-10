@@ -103,7 +103,7 @@ The testing process will be executed based on the requirements for the Dependent
 
 Functional test cases were created in Jira. 
 
-[Tests list.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12852979/Tests.list.pdf)
+[Tests list.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12853212/Tests.list.pdf)
 
 ## 1.5 Test Implementation
 
@@ -115,7 +115,7 @@ Test environment is up and running: (https://www.anvelope-autobon.ro/).
 
 * Bugs tickets have been created based on the failed tests. Below the bugs report:
   
-[Bugs list.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12852988/Bugs.list.pdf)
+[Bugs list.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12853222/Bugs.list.pdf)
 
 ## 1.7 Test Completion
 
