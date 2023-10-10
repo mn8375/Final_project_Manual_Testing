@@ -38,12 +38,15 @@ To start the testing process has been provided to the testers:
 
 #### 1.1.3 Exit criteria defined
 
-* all planned test cases were executed
-
-* 63% of the tests passed
-
-* 5 bugs were found and an update of application will come to solve them
-
+* Meeting the deadlines and budget constraints
+  
+* Executing and updating all the test cases
+  
+* Achieving the desired and sufficient coverage of the requirements and functionalities
+  
+* Identifying and fixing all the high-priority and critical bugs
+  
+* Re-testing and closing all the defects and executing the regression scenarios successfully
 
 
 #### 1.1.4 Test scope
