@@ -103,6 +103,8 @@ The testing process will be executed based on the requirements for the Dependent
 
 Functional test cases were created in Jira. 
 
+[Tests list.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12852979/Tests.list.pdf)
+
 **Test cases:**
 
 ![Test cases](https://github.com/mn8375/Final_project_Manual_Testing/assets/130221800/a48a05d6-7a8c-4444-800e-64a676bd6607)
@@ -124,16 +126,12 @@ Test environment is up and running: (https://www.anvelope-autobon.ro/).
 
 * Test cases are executed on the created test Cycle summary: [Cycle_summary.xlsx](https://github.com/mn8375/Final_project_Manual_Testing/files/12728725/Cycle_summary.xlsx)
 
-* Bugs tickets have been created based on the failed tests. The bug reports can be found below:
-[NM-9.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12728818/NM-9.pdf) ,
-[NM-10.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12728821/NM-10.pdf) ,
-[NM-23.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12728824/NM-23.pdf) ,
-[NM-26.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12728826/NM-26.pdf) ,
-[NM-28.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12728827/NM-28.pdf)
+* Bugs tickets have been created based on the failed tests. Below the bugs report:
+  
+[Bugs list.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12852988/Bugs.list.pdf)
 
 ## 1.7 Test Completion
 
-* Exit criteria was evaluated and passed
 * The traceability matrix was generated and can be found here: [Traceability_Matrix.xlsx](https://github.com/mn8375/Final_project_Manual_Testing/files/12728125/Traceability_Matrix.xlsx)
 
 * Test execution chart was generated, the final report shows that all 11 test were completed and we had 4 fails and 7 pass
