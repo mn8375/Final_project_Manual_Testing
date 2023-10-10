@@ -105,19 +105,6 @@ Functional test cases were created in Jira.
 
 [Tests list.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12852979/Tests.list.pdf)
 
-**Test cases:**
-
-![Test cases](https://github.com/mn8375/Final_project_Manual_Testing/assets/130221800/a48a05d6-7a8c-4444-800e-64a676bd6607)
-
-
-Some test cases with steps can be viewed here: 
-
-[NM-22.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12766237/NM-22.pdf)
-[NM-27.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12766214/NM-27.pdf)
-[NM-25.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12766213/NM-25.pdf)
-[NM-8.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12766212/NM-8.pdf)
-[NM-7.pdf](https://github.com/mn8375/Final_project_Manual_Testing/files/12766211/NM-7.pdf)
-
 ## 1.5 Test Implementation
 
 Test environment is up and running: (https://www.anvelope-autobon.ro/).
