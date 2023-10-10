@@ -1,4 +1,4 @@
-[ZFJ-Executions-10-09-2023.csv](https://github.com/mn8375/Final_project_Manual_Testing/files/12853249/ZFJ-Executions-10-09-2023.csv)# Final project Manual Testing
+# Final project Manual Testing
 
 The scope of the final project is to use all gained knowledge throught the course and apply them in practice, using a live application. 
 
