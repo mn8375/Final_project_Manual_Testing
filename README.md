@@ -139,3 +139,11 @@ below the final test execution report/chart
 
 ![Test Execution](https://github.com/mn8375/Final_project_Manual_Testing/assets/130221800/7945996c-7bbf-4585-bd98-87963fc25f0c)
 
+General conclusions after testing
+
+* During the testing, both proposed stories were covered and all 11 test cases planned for execution were completed.
+* Out of the 11 tests, 4 were failed and a total of 5 medium and low priority bugs were discovered. These do not affect the exploitation of the application by the beneficiary company, but represent security risks for it and difficulties in the use by customers that can lead to economic losses.
+* The reported defects are being fixed
+* Product risks will be reduced by upgrading the application.
+* Retesting and regression testing will be done for the new version of the application.
+
